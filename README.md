@@ -63,12 +63,12 @@ I offer comprehensive full-stack web development services for:
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| **Atreya Ayurvedam** | Ayurvedic wellness platform with appointment booking |
-| **Grameen Haat** | E-commerce marketplace for rural products |
-| **Business Management Portals** | Custom admin dashboards for SMEs |
-| **Client Websites** | Portfolio & business websites across industries |
+| Project | Description | Link |
+|---------|-------------|------|
+| **MCE Snehada Milana** | College event management & networking platform | [Visit](https://mcesnehadamilana.com/) |
+| **Atreya Ayurvedam** | Ayurvedic wellness platform with appointment booking | |
+| **Grameen Haat** | E-commerce marketplace for rural products | |
+| **Business Management Portals** | Custom admin dashboards for SMEs | |
 
 ---
 
