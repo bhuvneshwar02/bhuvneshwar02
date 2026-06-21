@@ -66,9 +66,9 @@ I offer comprehensive full-stack web development services for:
 | Project | Description | Link |
 |---------|-------------|------|
 | **MCE Snehada Milana** | College event management & networking platform | [Visit](https://mcesnehadamilana.com/) |
-| **Atreya Ayurvedam** | Ayurvedic wellness platform with appointment booking | |
+| **Atreya Ayurvedam** | Ayurvedic wellness platform with appointment booking | [Visit](https://atreyaayurvedam.com/) |
+| **Dheeraj Singh Consultancy** | Professional consultancy & services showcase website | [Visit](https://www.dheerajsingh.in/) |
 | **Grameen Haat** | E-commerce marketplace for rural products | |
-| **Business Management Portals** | Custom admin dashboards for SMEs | |
 
 ---
 
