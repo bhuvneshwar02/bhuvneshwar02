@@ -6,8 +6,7 @@
 
 ## 📞 Contact Information
 
-- **Email**: bhuvneshwar02@example.com
-- **Phone**: [Your Phone Number]
+- **Email**: bhuvneshwarsharma44@gmail.com
 - **Location**: India
 - **LinkedIn**: [linkedin.com/in/bhuvneshwar02](https://linkedin.com/in/bhuvneshwar02)
 - **GitHub**: [github.com/bhuvneshwar02](https://github.com/bhuvneshwar02)
@@ -177,8 +176,8 @@ Dedicated Full Stack Developer with hands-on experience building scalable, respo
 
 Ready to discuss your project? Reach out through:
 
+- **Email**: [bhuvneshwarsharma44@gmail.com](mailto:bhuvneshwarsharma44@gmail.com)
 - **LinkedIn**: [linkedin.com/in/bhuvneshwar02](https://linkedin.com/in/bhuvneshwar02)
-- **Email**: [Contact for details]
 - **GitHub**: [github.com/bhuvneshwar02](https://github.com/bhuvneshwar02)
 
 ---
