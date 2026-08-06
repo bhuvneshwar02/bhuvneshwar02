@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Bhuvneshwar Sharma
 
-[![Available for Freelance Work](https://img.shields.io/badge/Available%20for%20Freelance%20Work-YES-brightgreen?style=flat-square)](mailto:bhuvneshwar02@example.com)
+[![Available for Freelance Work](https://img.shields.io/badge/Available%20for%20Freelance%20Work-YES-brightgreen?style=flat-square)](mailto:bhuvneshwarsharma44@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/bhuvneshwar02)
 ![Years Experience](https://img.shields.io/badge/Experience-Full%20Stack%20Development-orange?style=flat-square)
+![Website](https://bs-digital-solution.onrender.com/)
 
 ---
 
